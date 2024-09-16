@@ -1,0 +1,169 @@
+
+все ОК
+все1 ОК
+все ОК
+Бэкап 22-08-24.sql.gz создан и заархивирован
+Бэкап 22-08-24.sql.gz создан и заархивирован в  +%H:%M
+Бэкап 22-08-24.sql.gz создан и заархивирован в 00:52
+Бэкап 22-08-24.sql.gz создан и заархивирован в 00:52
+Бэкап 22-08-24.sql.gz создан и заархивирован в 00:54
+Бэкапы старше 7ми дней удалены в 00:54
+Бэкап 22-08-24.sql.gz создан и заархивирован в 00:55
+Бэкапы старше 7ми дней удалены в 00:55
+--------------------------
+Бэкап 22-08-24.sql.gz создан и заархивирован в 00:56
+Бэкапы старше 7ми дней удалены в 00:56
+--------------------------
+Бэкап 22-08-24.sql.gz создан и заархивирован в 00:56
+Бэкапы старше 7ми дней удалены в 00:56
+--------------------------
+Бэкап 22-08-24.sql.gz создан и заархивирован в 00:59
+Бэкапы старше 7ми дней удалены в 00:59
+--------------------------
+Бэкап 22-08-24.sql.gz создан в 01:05
+Бэкапы старше 7ми дней удалены в 01:05
+--------------------------
+Бэкап 22-08-24.sql.gz создан в 13:43
+Бэкапы старше 7ми дней удалены в 13:43
+--------------------------13:50----------------------
+Бэкап 22-08-24.sql.gz создан
+Бэкапы старше 7ми дней удалены
+--------------------------13:52--------------------------
+Бэкап 22-08-24.sql.gz создан
+Бэкапы старше 7ми дней удалены
+--------------------------14:05--------------------------
+Бэкап 22-08-24.sql.gz создан
+Бэкапы старше 7ми дней удалены
+--------------------------14:06--------------------------
+Бэкап 22-08-24.sql.gz создан
+Бэкапы старше 7ми дней удалены
+--------------------------14:10--------------------------
+Бэкап 22-08-24.sql.gz создан
+Бэкапы старше 7ми дней удалены
+--------------------------14:38--------------------------
+Backup 22-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------14:47--------------------------
+Backup 22-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------14:48--------------------------
+Backup 22-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup 23-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup 24-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup 25-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup 26-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup 27-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup 28-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup 29-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup 30-08-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------19:44--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------20:25--------------------------
+Backup 04-09-24.sql.gz created
+--------------------------20:26--------------------------
+Backup 04-09-24.sql.gz created
+--------------------------20:31--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------20:38--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------20:47--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------21:02--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------21:04--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------21:17--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------21:21--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------21:44--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------21:45--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------21:46--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------22:05--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------22:07--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------22:10--------------------------
+Backup 04-09-24.sql.gz created
+Backups older than 7 days have been deleted
+--------------------------22:13--------------------------
+Backup 04-09-24.sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------22:13--------------------------
+Backup 04-09-24.sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------22:14--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------22:15--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted
+--------------------------14:10--------------------------
+Backup .sql.gz has been created
+Backups older than 7 days have been deleted

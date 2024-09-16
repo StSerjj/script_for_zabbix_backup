@@ -1,0 +1,11 @@
+#!/bin/bash
+ok_messadge="Backup $backup_name.sql.gz has been created"
+err_messadge="Error for creating backup"
+backup_name=$(date +%d-%m-%y)
+backup_time=$(date +%H:%M)
+user="bkpuser"
+password="Qwerty12!"
+host="localhost"
+backup_path="/root/mybackup/files/"
+backup_logs="/root/mybackup/logs.txt"
+days_of_removal="7"
