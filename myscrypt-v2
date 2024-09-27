@@ -4,23 +4,32 @@ backup_status (){
 echo "$1" | mutt -s "Backup allert" -- allerting@inbox.ru
 echo "$1" >> "$backup_logs"
 }
+check_availability (){
+    if [ ! "$(which $1)" ];
+        then
+            echo "The mysqldump utility is missing from the system" >> "/root/mybackup/logs.txt" && exit 1
+    fi
+}
+check_backup_creating (){
+    if [ $? -eq 0 ];
+        then
+            gzip -f "$backup_path$backup_name".sql
+            backup_status "$ok_messadge"
+        else
+            backup_status "$err_messadge" $$ exit 2
+    fi
+}
+check_old_backups (){
+    if [ $? -eq 0 ];
+        then
+            echo "Backups older than $days_of_removal days have been deleted"  >> "$backup_logs" && exit 0
+        else
+            echo "Error deleting old backups"  >> "$backup_logs" && exit 3
+    fi
+}
 echo "--------------------------$backup_time--------------------------" >> "$backup_logs"
-if [ ! "$(which mysqldump)" ];
-    then
-        echo "The mysqldump utility is missing from the system" >> "/root/mybackup/logs.txt" && exit 1
-fi
+check_availability "mysqldump"
 /usr/bin/mysqldump --single-transaction -u"$user" -p"$password" -h"$host" zabbix > "$backup_path$backup_name".sql
-if [ $? -eq 0 ];
-    then
-        gzip -f "$backup_path$backup_name".sql
-        backup_status "$ok_messadge"
-    else
-        backup_status "$err_messadge" $$ exit 2
-fi
+check_backup_creating
 find $backup_path -type f -ctime +$days_of_removal -delete
-if [ $? -eq 0 ];
-    then
-        echo "Backups older than $days_of_removal days have been deleted"  >> "$backup_logs" && exit 0
-    else
-        echo "Error deleting old backups"  >> "$backup_logs" && exit 3
-fi
+check_old_backups
