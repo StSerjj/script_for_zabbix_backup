@@ -1,5 +1,5 @@
 #!/bin/bash
-source /root/mybackup/vars
+source ./config
 backup_status (){
 echo "$1" | mutt -s "Backup allert" -- allerting@inbox.ru
 echo "$1" >> "$backup_logs"
